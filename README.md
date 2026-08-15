@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name / Username]
 
-<!--
-**thed1as/thed1as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Short headline: e.g., Backend Developer | Java & Spring Ecosystem Specialist]
 
-Here are some ideas to get you started:
+## 🎯 About Me
+- 🔭 Currently working on: **[Nook]**
+- 🌱 Currently learning: **[application architecture]**
+- 💬 Ask me about: **[Spring]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, C++, Psql
+- **Frameworks & Libraries:** Spring Boot, Spring Security, Spring Data, Hibernate ORM, JUnit
+- **Databases & Tools:** SQL, PostgreSQL, Redis, Docker, Docker-compose, Apache Maven, Git, Flyway
+
+## 📬 Connect with Me
+- **Telegram / Socials:** [@okhapd](https://t.me/okhapd)
+- **Email:** okhap.dias@gmail.com
