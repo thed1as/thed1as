@@ -3,9 +3,9 @@
 Backend Developer | Java & Spring Ecosystem Specialist
 
 ## 🎯 About Me
-- 🔭 Currently working on: **[Nook]**
-- 🌱 Currently learning: **[application architecture]**
-- 💬 Ask me about: **[Spring]**
+- 🔭 Currently working on: **[Nook](https://github.com/thed1as/Nook)**
+- 🌱 Currently learning: **[Application architecture]**
+- 💬 Ask me about: **[Java, CPP, Architecture]**
 
 ## 🛠 Tech Stack
 - **Languages:** Java, C++, Psql
