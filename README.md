@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name / Username]
+# 👋 Hi, I'm Dias
 
-[Short headline: e.g., Backend Developer | Java & Spring Ecosystem Specialist]
+Backend Developer | Java & Spring Ecosystem Specialist
 
 ## 🎯 About Me
 - 🔭 Currently working on: **[Nook]**
